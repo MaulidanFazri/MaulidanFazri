@@ -31,13 +31,13 @@ As a student, I’m constantly eager to learn and experiment with new tools and 
 
 ## 💻 Tech stack
 
-![HTML Logo](/images/html5.svg)
-![CSS Logo](/images/css3.svg)
-![Javascript Logo](/images/javascript.svg)
-![Bootstrap Logo](/images/bootstrap.svg)
-![Tailwind Logo](/images/tailwind.svg)
-![Laravel Logo](/images/laravel.svg)
-![Figma Logo](/images/figma.svg)
+<img src="/images/html5.svg" alt="HTML" width="50" height="50"/>  
+<img src="/images/css3.svg" alt="CSS" width="50" height="50"/>  
+<img src="/images/javascript.svg" alt="JavaScript" width="50" height="50"/>  
+<img src="/images/bootstrap.svg" alt="Bootstrap" width="50" height="50"/>  
+<img src="/images/tailwind.svg" alt="Tailwind" width="50" height="50"/>  
+<img src="/images/laravel.svg" alt="Laravel" width="50" height="50"/>  
+<img src="/images/figma.svg" alt="Figma" width="50" height="50"/> 
 
 ---
 
