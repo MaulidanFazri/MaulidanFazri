@@ -34,6 +34,10 @@ As a student, I’m constantly eager to learn and experiment with new tools and 
 ![HTML Logo](/images/html5.svg)
 ![CSS Logo](/images/css3.svg)
 ![Javascript Logo](/images/javascript.svg)
+![Bootstrap Logo](/images/bootstrap.svg)
+![Tailwind Logo](/images/tailwind.svg)
+![Laravel Logo](/images/laravel.svg)
+![Figma Logo](/images/figma.svg)
 
 ---
 
