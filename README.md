@@ -36,6 +36,7 @@ As a student, I’m constantly eager to learn and experiment with new tools and 
   <img src="/images/css3.svg" alt="CSS" width="50" height="50"/>
   <img src="/images/javascript.svg" alt="JavaScript" width="50" height="50"/>
   <img src="/images/php.svg" alt="PHP" width="50" height="50"/>
+  <img src="/images/kotlin.svg" alt="Kotlin" width="50" height="50"/>
   <img src="/images/cpp.svg" alt="CPP" width="50" height="50"/>
   <img src="/images/bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
   <img src="/images/tailwind.svg" alt="Tailwind" width="50" height="50"/>
