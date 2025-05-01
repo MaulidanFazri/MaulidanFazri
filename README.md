@@ -6,7 +6,7 @@ I'm a Tech Enthusiast!
 
 I've been studying technology since 2022, and during this time, I've explored various projects like web programming, app programming, and data visualization.
 
-What made me fall in love with web development and front-end is the capability to create interfaces and, in some ways, make art. When I code, I feel like I'm creating something beautiful and functional—a perfect blend of logic and creativity.
+What made me fall in love with web development and front-end is the capability to create interfaces and, in some ways, make art. When I code, I feel like I'm creating something beautiful and functional, a perfect blend of logic and creativity.
 
 As a student, I’m constantly eager to learn and experiment with new tools and technologies. My goal is to deepen my understanding of the tech world and contribute to impactful projects while honing my skills and building a solid foundation for the future.
 
@@ -20,7 +20,6 @@ As a student, I’m constantly eager to learn and experiment with new tools and 
 - 👨🏻‍💻 Love programming and gaming
 - 🧠 Love sharing knowledge
 - 🌌 Passionate for astronomy
-- ✈️ Traveling is one of my favorite hobbies
 - 📧 Reach me via maulidanfazri24@gmail.com
 
 <br>
