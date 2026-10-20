@@ -2,13 +2,13 @@
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=MaulidanFazri&style=flat-square&color=blueviolet">
 
-I'm a Tech Enthusiast!
+I'm a Computer Science Student & Data Engineering Enthusiast!
 
-I've been studying technology since 2022, and during this time, I've explored various projects like web programming, app programming, and data visualization.
+I've been diving into the tech world since 2022. While I started my journey in software engineering by exploring web and mobile app development, I eventually found my true calling behind the scenes: Data Engineering and Database Architecture.
 
-What made me fall in love with web development and front-end is the capability to create interfaces and, in some ways, make art. When I code, I feel like I'm creating something beautiful and functional, a perfect blend of logic and creativity.
+What made me fall in love with the data world is the art of bringing order to complexity. For me, designing clean database schemas, optimizing complex SQL queries, and building reliable ETL/ELT pipelines feel like crafting the invisible backbone that powers modern applications. Transforming raw, scattered data into structured, scalable data warehouses is my version of blending logic with architectural precision.
 
-As a student, I’m constantly eager to learn and experiment with new tools and technologies. My goal is to deepen my understanding of the tech world and contribute to impactful projects while honing my skills and building a solid foundation for the future.
+As a Computer Science student and scholarship recipient, I’m constantly experimenting with Linux environments, Docker containerization, and relational databases. My goal is to deepen my expertise in data infrastructure and database administration, building resilient systems that drive impactful decisions.
 
 ## 👨🏻‍💻 About me
 
